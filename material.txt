@@ -1,0 +1,24 @@
+npm create-react-app my-app
+
+install material ui
+npm install @mui/material @emotion/react @emotion/styled
+
+shortcut to build bacic function
+
+	rafce
+
+typography import
+
+property 
+	variant='' (sublime all variant key shortcut ctrl-space)
+	sx={{}} you can add additional css styling itd
+
+button
+ props variant sx itd
+
+textfield
+	<TextField type={'password'} sx={{margin:3}} placeholder='password' variant="filled" />
+
+forms
+	
+
